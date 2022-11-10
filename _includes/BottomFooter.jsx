@@ -37,7 +37,7 @@ const PreFooter = props => {
             <CNCFLogo />
           </div>
           <Paragraph hint>
-          We are a CNCF Incubating Project.
+          We are a CNCF Incubating Project. 
           </Paragraph>
         </div>
       </Container>
